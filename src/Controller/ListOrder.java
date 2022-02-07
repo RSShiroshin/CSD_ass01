@@ -109,7 +109,7 @@ public class ListOrder {
             node = node.next;
         }
     }
-
+    //ngu 
     // sort by pcode, if pcode is the same, sort by ccode
     public void sortByProductCodeAndCustomerCode() {
         NodeOrdering current = head;
